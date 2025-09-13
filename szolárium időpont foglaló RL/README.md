@@ -16,5 +16,5 @@ Egyszerű szolárium időpontfoglaló. A felületen bal oldalt a szabad időpont
 - Indítás: `main.py`, ablaknév: `app`
 
 ## Indítás
-- `python main.py` (PyCharm-ban a `main.py` legyen a Run Configuration)
+- `python main.py` 
 - A foglalások a `data/foglalasok.csv` fájlba kerülnek.
